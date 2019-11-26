@@ -1,6 +1,6 @@
 # code-one
 
-The heaven For Lazy Coders And We learners
+The heaven For Lazy Coders And Web Dev (learners) Or Expert
 
 # Development
 
